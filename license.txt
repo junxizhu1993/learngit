@@ -1,0 +1,2 @@
+﻿This is a license file.line1
+This is a license fule.line2
